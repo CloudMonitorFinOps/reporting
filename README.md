@@ -20,20 +20,20 @@ Power BI FinOps Reports for CloudMonitor
 
 ### Connecting Dataset in Power BI Desktop
 
-3. Open the CloudMonitor FinOps Dataset.pbix file and in the top menu, select Edit Parameters under the Transform Data menu.
+1. Open the CloudMonitor FinOps Dataset.pbix file and in the top menu, select Edit Parameters under the Transform Data menu.
 ![Desktop Edit Parameters](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/ceb36276-466f-44fb-b318-ce8ac7838883)
-4. In the dialogue which opens, enter the customer ID which was provided to you and click OK.
+2. In the dialogue which opens, enter the customer ID which was provided to you and click OK.
 ![Desktop Parameter Dialogue](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/2de7b61c-ab79-4fb2-b110-134695f1d173)
-5. From the options and settings menu in the file dialogue, select Data source settings.
+3. From the options and settings menu in the file dialogue, select Data source settings.
 ![Desktop Options and Settings](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/898b5cdc-f28a-4707-accf-acc360e67dba)
-6. In the window which pops up, select one of the datasources and click Edit Permissions.
+4. In the window which pops up, select one of the datasources and click Edit Permissions.
 ![Desktop Data Source Settings](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/ce04ccf7-9ad8-4a04-bff8-567bb97ed5c0)
-7. In the next window, make sure that Organizational is selected for the Privacy Level.
+5. In the next window, make sure that Organizational is selected for the Privacy Level.
 ![Desktop Edit Permission Window](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/876f970a-21d8-429e-baa2-5131d6e559a5)
-8. Click on edit under the credentials section and in the following window select the Database option in the left hand menu and then enter the username and password which was provided to you.
+6. Click on edit under the credentials section and in the following window select the Database option in the left hand menu and then enter the username and password which was provided to you.
 ![Desktop Credential Window](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/49700650-7bf8-48ee-8711-657f29b1be77)
-9. Repeate steps 6-8 for the remaining datasource.
-10. Once done you may close the datasource settings window.
+7. Repeate steps 6-8 for the remaining datasource.
+8. Once done you may close the datasource settings window.
 
 ### Connecting Report Files to the Dataset
 
@@ -41,5 +41,5 @@ Power BI FinOps Reports for CloudMonitor
 ![Desktop Unable to Connect](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/0ee0c013-5556-49a9-9306-21120cd05e8f)
 2. Click on edit, and from the next window select the dataset file which you published to the Power BI Service.
 ![Desktop Select Dataset](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/78f2a81a-fc33-433d-a5a5-52cd6705da0f)
-3. The report will now load and display the following detail in the lower right of the Power BI window.
+3. The report will now load and display the following detail in the lower right of the Power BI window, showing which dataset and workspace you have connected to.
 ![Desktop Connected Live](https://github.com/CloudMonitorFinOps/reporting/assets/104886947/ff010ed7-c2c3-484e-82c0-a5bc715ce4c7)
