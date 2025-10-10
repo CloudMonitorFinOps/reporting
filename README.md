@@ -17,7 +17,7 @@ Learn more at: [FinOps Foundation](https://www.finops.org)
 ## Looking for CloudMonitor Enterprise?
 Click the following link to visit the CloudMonitor website: [CloudMonitor](https://cloudmonitor.ai)
 
-
+ 
 # How to connect the CloudMonitor Dataset and Reports
 Example using the Power BI FinOps Reports for CloudMonitor.
 
