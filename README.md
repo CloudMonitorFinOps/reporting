@@ -1,5 +1,5 @@
 
-# About CloudMonitor
+# About CloudMonitor 
 CloudMonitor is a revolutionary FinOps tool that enables companies to automate cost governance and proactively reduces cloud consumption and costs.  
 CloudMonitor consists of 4 seperate reporting areas:
 1. FinOps - Monitor your cloud spend.
