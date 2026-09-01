@@ -1,4 +1,8 @@
 
+# This repo is deprecated for the latest go-to CloudMonitor.ai
+https://cloudmonitor.ai
+
+
 # About CloudMonitor 
 CloudMonitor is a revolutionary FinOps tool that enables companies to automate cost governance and proactively reduces cloud consumption and costs.  
 CloudMonitor consists of 4 seperate reporting areas:
